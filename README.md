@@ -1,6 +1,16 @@
+<div align="center">
+
+![Nunudev Studio](assets/nunudev_studio_logo.png)
+
+</div>
+
+---
+
 # 🔍 Jalanamal OCR Payment Validator
 
 Sistem otomatis untuk validasi screenshot pembayaran/donasi menggunakan teknologi OCR (Optical Character Recognition) dan AI untuk mendeteksi keaslian transaksi.
+
+**Developed by [Nunudev Studio](https://github.com/NunudevStudio)** 🚀
 
 ## 📋 Daftar Isi
 
