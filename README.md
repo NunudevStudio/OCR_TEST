@@ -1,6 +1,6 @@
 <div align="center">
 
-![Nunudev Studio](assets/Logo.png)
+<img src="assets/Logo.png" alt="Nunudev Studio" width="400">
 
 </div>
 
