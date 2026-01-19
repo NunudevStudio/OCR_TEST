@@ -1,6 +1,6 @@
 <div align="center">
 
-![Nunudev Studio](assets/nunudev_studio_logo.png)
+![Nunudev Studio](assets/Logo.png)
 
 </div>
 
